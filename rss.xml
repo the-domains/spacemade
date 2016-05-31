@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[spacemade]]></title>
+        <description><![CDATA[spacemade]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 31 May 2016 17:05:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Space Made is a place for passions, ideas, wants, and anything else that comes to mind</p>]]></description>
+            <link>undefinedspace-made-is-a-place-for-passions-ideas-wants-and-anythi/index.html</link>
+            <guid isPermaLink="false">d5d20502-cf94-4689-b5ed-832d43933336</guid>
+            <pubDate>Tue, 31 May 2016 17:05:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
