@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[spacemade]]></title>
         <description><![CDATA[spacemade]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spacemade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 17:05:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 17:26:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spacemade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Space Made is a place for passions, ideas, wants, and anything else that comes to mind</p>]]></description>
-            <link>undefinedspace-made-is-a-place-for-passions-ideas-wants-and-anythi/index.html</link>
+            <link>https://thegrid.ai/spacemade/space-made-is-a-place-for-passions-ideas-wants-and-anythi/index.html</link>
             <guid isPermaLink="false">d5d20502-cf94-4689-b5ed-832d43933336</guid>
-            <pubDate>Tue, 31 May 2016 17:05:39 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2016 17:26:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
