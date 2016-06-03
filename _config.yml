@@ -1,6 +1,6 @@
 name: spacemade
 favicon: null
-layout_spectrum: 0.74783
+layout_spectrum: 1
 typography_spectrum: 0.23939659027382731
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.46925748442299664
+  brandStrength: 0.75
   lightness: 0.736686835763976
   saturation: 0.46761661558412015
   rhythmicContrast: 0.7623609742149711
